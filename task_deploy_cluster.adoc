@@ -138,7 +138,7 @@ It can take up to 30 minutes for the cluster to be created.
 The page is automatically refreshed at regular intervals.
 +
 [TIP]
-If the cluster creation operation is initiated but fails to complete, the ONTAP administrative password you define might not be registered. In this case, you can access the management interface for the ONTAP Select cluster using the password _changeme123_ for the admin account.
+If the cluster creation operation is initiated but fails to complete, the ONTAP administrative password you define might not be applied. In this case, contact NetApp Customer Support.
 --
 
 .Multi-node cluster
@@ -194,7 +194,7 @@ It can take up to 45 minutes for the cluster to be created.
 The page is automatically refreshed at regular intervals.
 +
 [TIP]
-If the cluster creation operation is initiated but fails to complete, the ONTAP administrative password you define might not be registered. In this case, you can access the management interface for the ONTAP Select cluster using the password _changeme123_ for the admin account.
+If the cluster creation operation is initiated but fails to complete, the ONTAP administrative password you define might not be applied. In this case, contact NetApp Customer Support.
 --
 
 ====
