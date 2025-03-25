@@ -295,9 +295,7 @@ sidebar:
             - title: Common support module
               url: /reference_api_script_common.html
             - title: Resize cluster nodes
-              url: /reference_api_script_resize.html
- # - title: Automate with Ansible
- #   url: /concept_automate_ansible.html            
+              url: /reference_api_script_resize.html        
     - title: Use the CLI
       entries:
         - title: Sign in using SSH
